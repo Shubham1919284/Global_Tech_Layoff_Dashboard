@@ -25,7 +25,7 @@ This project analyzes global tech layoffs using an interactive Power BI dashboar
 
 ## 📸 Dashboard Preview
 
-![Tech Layoffs Dashboard](./Telecom%20Churn%20Analysis%20Dashboard.png)
+![Tech Layoffs Dashboard](https://github.com/Shubham1919284/Global_Tech_Layoff_Dashboard/blob/e6c9be29b0fc4c561fad037eca5694310ca7f31f/Global_Layoff_Dashboard...png)
 
 ---
 
