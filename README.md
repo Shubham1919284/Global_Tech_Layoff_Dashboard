@@ -70,3 +70,4 @@ This project analyzes global tech layoffs using an interactive Power BI dashboar
 This project is for educational and demonstration purposes only.  
 Please credit the source if you use the dataset or dashboard.
 
+--> Shubham Kumar Jha
